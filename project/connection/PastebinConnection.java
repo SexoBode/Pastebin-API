@@ -1,4 +1,4 @@
-package connection;
+package project.connection;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package connection;
+package project.connection;
 
 import java.io.Serializable;
 import java.io.UnsupportedEncodingException;

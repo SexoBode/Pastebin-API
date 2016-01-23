@@ -1,4 +1,4 @@
-package connection;
+package project.connection;
 
 public class LoginException extends RuntimeException {
 	private static final long serialVersionUID = -2034128223720508245L;

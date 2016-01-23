@@ -1,4 +1,4 @@
-package connection;
+package project.connection;
 
 public class BadAPIRequestException extends RuntimeException {
 	private static final long serialVersionUID = 4925155407045706277L;

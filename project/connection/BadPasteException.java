@@ -1,4 +1,4 @@
-package connection;
+package project.connection;
 
 public class BadPasteException extends RuntimeException {
 	private static final long serialVersionUID = 4924156008745252970L;

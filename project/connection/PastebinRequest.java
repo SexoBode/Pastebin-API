@@ -1,4 +1,4 @@
-package connection;
+package project.connection;
 
 abstract class PastebinRequest {
 	static final String DEVKEY = "api_dev_key=";

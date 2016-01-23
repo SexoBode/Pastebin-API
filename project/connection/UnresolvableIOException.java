@@ -1,4 +1,4 @@
-package connection;
+package project.connection;
 
 public class UnresolvableIOException extends RuntimeException {
 	private static final long serialVersionUID = -5302973863514967711L;
